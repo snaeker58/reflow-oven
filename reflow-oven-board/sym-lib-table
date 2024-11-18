@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bt138-800e")(type "KiCad")(uri "C:/Users/Admin/Desktop/bt138-800e.kicad_sym")(options "")(descr ""))
+  (lib (name "Triac_Thyristor1")(type "KiCad")(uri "${KIPRJMOD}/footprints/Triac_Thyristor.kicad_sym")(options "")(descr ""))
+  (lib (name "Relay_SolidState1")(type "KiCad")(uri "${KIPRJMOD}/footprints/Relay_SolidState.kicad_sym")(options "")(descr ""))
+  (lib (name "GiveBetterNameRelay_SolidState")(type "KiCad")(uri "${KIPRJMOD}/footprints/GiveBetterNameRelay_SolidState.kicad_sym")(options "")(descr ""))
+)

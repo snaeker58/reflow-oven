@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Dorabo_Screw_Terminal")(type "KiCad")(uri "${KIPRJMOD}/footprints/Dorabo_Screw_Terminal.pretty")(options "")(descr ""))
+)
