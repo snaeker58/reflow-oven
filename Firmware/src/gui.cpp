@@ -46,6 +46,7 @@ bool CbBtnCommon(void* pvGui,void *pvElemRef,gslc_teTouch eTouch,int16_t nX,int1
 //<Button Enums !Start!>
       case E_ELEM_STRT_PRCESS:
         gslc_SetPageCur(&m_gui, E_PG_POPUP1);
+		gslc_ElemXProgressSetVal(&m_gui, m_pElemProgress1_2_5, 69)
         break;
       case E_ELEM_CONF_PRCESS:
         gslc_SetPageCur(&m_gui, E_PG2);
